@@ -20,6 +20,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikfirdose-dev&show_icons=true&locale=en" alt="shaikfirdose-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikfirdose-dev&" alt="shaikfirdose-dev" /></p>
