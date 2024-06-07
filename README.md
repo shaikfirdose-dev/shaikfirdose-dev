@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java backend development.<br>👯 I’m looking to collaborate on software development.<br>🤝 I’m looking for help from SDEs who have good knowledge of software development.<br>🌱 I’m currently learning system design.<br>💬 Skilled in DSA and system design.<br>
+🔭 I’m currently working on Java backend development.<br>👯 I’m looking to collaborate on software development.<br>🤝 I’m looking for SDEs who have good knowledge of software development.<br>🌱 I’m currently learning system design.<br>💬 Skilled in DSA and system design.<br>
 
 
 ## 🌐 Socials:
